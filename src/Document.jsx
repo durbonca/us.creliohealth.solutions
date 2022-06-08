@@ -11,7 +11,7 @@ const Component = ({ usuario }) => {
         if (usuario === 'iracema'){
             window.location.href = _document;
         }
-    }, [])
+    })
 
   return (
     <div></div>

@@ -1,5 +1,4 @@
 import React, {useEffect} from 'react'
-import _document from './docs/_descarga.pdf'
 
 const Component = () => {
 

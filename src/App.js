@@ -1,8 +1,6 @@
 import {
   Routes,
   Route,
-  Navigate,
-  Link,
 } from "react-router-dom";
 import Component from './Component';
 import Document from './Document';
